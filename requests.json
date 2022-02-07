@@ -305,7 +305,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDIxMDA5MDQzMmYzOTM5MGMzMzdiNDIiLCJpYXQiOjE2MTI3NzU1Njl9.FapU9Ae6qE0mFhTWELGhZ1t88IBfc3VzrL1DggFsV-s",
+						"value": "Bearer Token",
 						"type": "text",
 						"disabled": true
 					}
