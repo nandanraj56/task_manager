@@ -2,7 +2,7 @@
 Stack- Node, Express, MongoDB  
 Rest API based Task manager app where a user can enter his tasks and can mark them completed.
 
-Features:-
+Features:-  
 User account creation  
 Get user Profile  
 Profile image for user (Auto resize uplodaed image)  
